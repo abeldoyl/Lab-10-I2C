@@ -1,7 +1,7 @@
     ; Abel Doyle
     ; RCET3375
     ; Lab10-1I2C
-    ; https://github.com/abeldoyl/Lab-9-EEPROM/tree/main/Lab9-4EEPROM.X
+    ; https://github.com/abeldoyl/Lab-10-I2C/tree/main/Lab10-1I2C.X
     
 ; PIC16F883 Configuration Bit Settings
 
